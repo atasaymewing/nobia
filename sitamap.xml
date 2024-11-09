@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   
+   <!-- Ana Sayfa -->
+   <url>
+      <loc>https://www.nobiacoffee.co/</loc>
+      <lastmod>2024-11-08</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+
+   <!-- Hakkında Sayfası -->
+   <url>
+      <loc>https://www.nobiacoffee.co/about</loc>
+      <lastmod>2024-11-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Menüler Sayfası -->
+   <url>
+      <loc>https://www.nobiacoffee.co/menu</loc>
+      <lastmod>2024-11-08</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <!-- İletişim Sayfası -->
+   <url>
+      <loc>https://www.nobiacoffee.co/contact</loc>
+      <lastmod>2024-11-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <!-- Sosyal Medya Bağlantıları -->
+   <url>
+      <loc>https://www.instagram.com/nobiaco</loc>
+      <lastmod>2024-11-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://www.facebook.com/nobiaco</loc>
+      <lastmod>2024-11-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <!-- Gizlilik Politikası Sayfası -->
+   <url>
+      <loc>https://www.nobiacoffee.co/privacy-policy</loc>
+      <lastmod>2024-11-08</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.6</priority>
+   </url>
+
+   <!-- Kullanım Şartları Sayfası -->
+   <url>
+      <loc>https://www.nobiacoffee.co/terms-of-service</loc>
+      <lastmod>2024-11-08</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.6</priority>
+   </url>
+
+   <!-- Diğer Sayfalar (Örneğin, kampanyalar, etkinlikler, özel sayfalar vb.) -->
+   <url>
+      <loc>https://www.nobiacoffee.co/special-events</loc>
+      <lastmod>2024-11-08</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+</urlset>
